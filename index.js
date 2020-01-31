@@ -50,11 +50,3 @@ inquirer.prompt(questions).then(function ({ username, color }) {
 
 
 })
-
-
-
-
-
-
-
-
